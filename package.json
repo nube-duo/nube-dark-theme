@@ -4,6 +4,10 @@
   "description": "Nube personalized dark theme",
   "version": "1.0.0",
   "publisher": "Nube",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nube-duo/nube-dark-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
