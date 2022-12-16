@@ -1,0 +1,22 @@
+{
+  "name": "nube-dark-theme",
+  "displayName": "Nube dark theme",
+  "description": "Nube personalized dark theme",
+  "version": "1.0.0",
+  "publisher": "Nube",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nube dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nube dark-color-theme.json"
+      }
+    ]
+  }
+}
