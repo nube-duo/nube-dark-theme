@@ -1905,7 +1905,7 @@
     "terminal.ansiRed": "#cd3131",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiYellow": "#e5e510",
-    "terminal.integrated.fontFamily": "Fira Sans",
+    "terminal.integrated.fontFamily": "Monaco",
     "breadcrumb.background": "#00050f",
     "breadcrumb.foreground": "#ffffffcc",
     "breadcrumb.focusForeground": "#ffffff",
